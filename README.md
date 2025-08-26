@@ -1,0 +1,1 @@
+En la presente carpeta se encuentran los archivos elaborados durante la estancia:Veranos científicos 2025 por parte de la División de Información Cuántica. Los datos experimentales se encuentran en el archivo excel "VERANODICU" y su análisis en "Verano". También se encuentran los programas Arduino.
